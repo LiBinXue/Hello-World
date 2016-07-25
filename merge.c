@@ -59,7 +59,5 @@ void merge_sort(struct llist *lst){
   free(right);
       
 }
-
-int main (void){
   
 
